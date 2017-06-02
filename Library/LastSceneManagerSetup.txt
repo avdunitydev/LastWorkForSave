@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/529CW/529CW.unity
+  isLoaded: 1
+  isActive: 1
